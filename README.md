@@ -1,4 +1,4 @@
-# axisdadev's webaite v3
+# axisdadev's website v3
 
 Welcome to axis's website this project showcases a personal website designed by awdev_, featuring various content and functionalities.
 
