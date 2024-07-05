@@ -30,6 +30,6 @@ To view the website:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-README made with ❤️ by ChatGPT
-Made with ❤️ by [@awdev1](https://github.com/awdev1) in the 🇺🇸.
+README made with ❤️ by ChatGPT <br>
+Website made with ❤️ by [@awdev1](https://github.com/awdev1) in the 🇺🇸.
 
