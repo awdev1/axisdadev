@@ -1,7 +1,6 @@
 # axisdadev's website v3
 
-Welcome to axis's website this project showcases a personal website designed by awdev_, featuring various content and functionalities. This readme is also totally not ai generated.
-
+Welcome to axis's website this project showcases a personal website designed by awdev_, featuring various content and functionalities.
 ## Features
 
 - **Profile Introduction**: Learn about Axis, a programmer and part-time game developer fueled by coffee and intense workouts.
@@ -31,5 +30,6 @@ To view the website:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
+README made with ❤️ by ChatGPT
 Made with ❤️ by [@awdev1](https://github.com/awdev1) in the 🇺🇸.
+
