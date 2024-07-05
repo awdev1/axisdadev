@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'axisdadev.com@125.123.32.23 ~$ python portfolio.py\n',
     ' * Serving Flask app "portfolio"\n',
     ' * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)\n',
-    ' * Port Forwarding to the interwebz...'
+    ' * Port Forwarding to the interwebz...',
+    ' * Port Forwarding from https://127.0.0.1:3000 <---> https://axisdadev.co,'
   ];
 
   let commandIndex = 0;
@@ -22,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearInterval(interval);
         if (callback) callback();
       }
-    }, 10);
+    }, 20);
   }
 
   function typeNextCommand() {
