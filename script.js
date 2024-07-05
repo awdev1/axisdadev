@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearInterval(interval);
         if (callback) callback();
       }
-    }, 5);
+    }, 10);
   }
 
   function typeNextCommand() {
