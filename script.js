@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'axisdadev.com@125.123.32.23 ~$ python portfolio.py\n',
     ' * Serving Flask app "portfolio"\n',
     ' * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)\n',
-    ' * Port Forwarding to the interwebz...',
-    ' * Port Forwarding from https://127.0.0.1:3000 <---> https://axisdadev.co,'
+    ' * Port Forwarding to the interwebz...'\n,
+    ' * Port Forwarding from https://127.0.0.1:3000 <---> https://axisdadev.com'
   ];
 
   let commandIndex = 0;
