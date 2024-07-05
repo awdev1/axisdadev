@@ -1,5 +1,3 @@
-
-
 document.addEventListener('DOMContentLoaded', () => {
   const consoleOutput = document.getElementById('console-output');
   const content = document.getElementById('content');
