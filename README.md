@@ -1,6 +1,6 @@
 # axisdadev's website v3
 
-Welcome to axis's website this project showcases a personal website designed by awdev_, featuring various content and functionalities.
+Welcome to axis's website this project showcases a personal website designed by awdev_, featuring various content and functionalities. This readme is also totally not ai generated.
 
 ## Features
 
