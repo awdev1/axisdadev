@@ -6,8 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
     ' * Serving Flask app "portfolio"\n',
     ' * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)\n',
     ' * Port Forwarding to the interwebz...\n',
-    ' * Port Forwarding from https://127.0.0.1:3000 <---> https://axisdadev.com\n\n\n\n',
-    'Alright give us one second while we get the interwebz up and running................................................... \n\n',
+    ' * Port Forwarding from https://127.0.0.1:3000 <---> https://axisdadev.com\n',
+    '.........\n\n',
     'Done!'
   ];
 
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearInterval(interval);
         if (callback) callback();
       }
-    }, 15);
+    }, 85);
   }
 
   function typeNextCommand() {
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
       setTimeout(() => {
         document.getElementById('console').style.display = 'none';
         content.classList.remove('hidden');
-      }, 750);
+      }, 100);
     }
   }
 
